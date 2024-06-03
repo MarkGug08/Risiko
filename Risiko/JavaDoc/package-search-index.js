@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Fase_preliminare"},{"l":"Gestione_file"},{"l":"Gestione_Turno"},{"l":"GUI"},{"l":"Partenza"},{"l":"Risiko"}];updateSearchResults();
